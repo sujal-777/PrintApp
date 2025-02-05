@@ -14,10 +14,12 @@
 ### Frontend (Client)
 1. Navigate to the `frontend` folder:
 ```bash
-   cd frontend
+cd frontend
 ```
 Install dependencies:
+```bash
 npm install
+```
 Start the development server:
 ```bash
 npm run dev
