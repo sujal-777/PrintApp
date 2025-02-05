@@ -20,6 +20,12 @@ Install dependencies:
 ```bash
 npm install
 ```
+for some issue you can be needed to use : 
+```bash
+npm install --force
+or
+npm installs --legacy-peers-deps
+```
 Start the development server:
 ```bash
 npm run dev
